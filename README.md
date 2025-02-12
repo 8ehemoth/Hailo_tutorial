@@ -11,7 +11,8 @@ Dataflow Compiler 및 Model Zoo 설치 방법
 - Model Build 환경에서 Hailo 실행파일을 컴파일 할 수 있음 (Hailo 디바이스가 필요없음)
 - Runtime 환경에서 컴파일된 실행파일을 Hailo를 통해 실행할 수 있음 (Hailo 디바이스가 장착된 환경)
 - Hailo Dataflow Compiler와 Hailo Model Zoo를 설치해 Model Build 환경을 구축함 
-![[Pasted image 20250212213413.png]]
+![image](https://github.com/user-attachments/assets/e7949704-bfdf-4249-8794-537ddbeac71d)
+
 
 ## Hailo Dataflow Compiler 설치
 
@@ -44,6 +45,8 @@ hailo_dataflow_compiler-3.27.0-py3-none-linux_x86_64.whl
 Hailo 홈페이지에서 회원가입 후 개발자존에서 최신버전 다운로드 가능 
 
 https://hailo.ai/developer-zone/software-downloads/
+![image](https://github.com/user-attachments/assets/89675339-178a-45b0-8735-910a1e9a3b30)
+
 
 ### 패키지 설치
 
